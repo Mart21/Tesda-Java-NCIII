@@ -23,7 +23,7 @@ public class CheckVowelsAndConsonant {
                 }
         }
     }
-  
+
     public static void main(String[] args) {
        
         char testChar1 = 'E';
