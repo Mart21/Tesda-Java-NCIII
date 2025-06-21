@@ -29,8 +29,8 @@ public class StringMethods {
             }
             System.out.println();
         } else {
-            System.out.println("The word is too short to get letters 2 to 5.");
+             System.out.println("The word is too short to get letters 2 to 5.");
         }
-        myScanner.close();
+        myScanner.close(); 
     }
 }
